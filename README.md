@@ -17,7 +17,7 @@ cleaning several structural  issues, cleaning and handling missing values, looki
 ### Step 3 Analysing the data
 Queries were performed on the data to analyse it and obtain insights about the various business indices like total revenue, products ordered or left in stock as well as the popularity of products across different geographical locations and  also check and analyse website data from the given business organisation
 ### Step 4 Implementing the QA process and spotting any QA errors
-
+Risk areas were identified and SQL queries were executed to validate the data and check for quality assurance errors
 
 ## Results
 (fill in what you discovered this data could tell you and how you used the data to answer those questions)
