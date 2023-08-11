@@ -53,5 +53,7 @@ Time itself was also a big challenge in this project
 ## Future Goals
 
 To use materialised views instead of altering tables and retaining the original data
+
 Give more time in understanding and eliminating missing values
+
 Make more elaborate documentation and presentation
