@@ -57,3 +57,4 @@ To use materialised views instead of altering tables and retaining the original 
 Give more time in understanding and eliminating missing values
 
 Make more elaborate documentation and presentation
+
